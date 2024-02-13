@@ -3,7 +3,8 @@
 * [ ] Product main concept design
 * [ ] Product design
 * [ ] UI/UX design
-* [ ] Software architecture
+* [ ] Software architecture - fast dev version
+* [ ] Software architecture - final version
 * [ ] User story split
 
 ## Product main concept design
