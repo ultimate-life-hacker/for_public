@@ -1,11 +1,18 @@
 ## Todo
 
+### Main todo
+
 * [ ] Product main concept design
+  * [x] Features (story)
 * [ ] Product design
 * [ ] UI/UX design
 * [ ] Software architecture - fast dev version
 * [ ] Software architecture - final version
 * [ ] User story split
+
+### other todo
+
+* [ ] side features design
 
 ## Product main concept design
 
