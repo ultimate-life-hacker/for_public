@@ -8,6 +8,8 @@
 * remind time
   * remind types: before 5 minutes / right now / ...
 * todo history
+* special date todo
+  * pinned date to remind
 
 ## Report
 
