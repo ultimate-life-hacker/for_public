@@ -5,6 +5,7 @@
 * [ ] Product main concept design
   * [x] Features (story)
 * [ ] Product design
+* [ ] Business logic
 * [ ] UI/UX design
 * [ ] Software architecture - fast dev version
 * [ ] Software architecture - final version
@@ -22,6 +23,10 @@
 ## Product design
 
 todo - detail, login, side features, user settings, etc.
+
+## Business logic
+
+todo - buy me a coffee, limit for free user, ad, etc.
 
 ## UI/UX design
 
